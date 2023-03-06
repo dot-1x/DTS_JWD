@@ -1,3 +1,10 @@
+<?php
+declare(strict_types=1);
+$data = array(
+    [1, 'neko'],
+    [2, 'poi']
+)
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
