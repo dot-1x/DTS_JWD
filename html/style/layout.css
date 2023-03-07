@@ -1,0 +1,38 @@
+.wrapper {
+    width: 800px;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+    background-color: crimson;
+    height: 50px;
+}
+
+.sidebar {
+    background-color: cadetblue;
+    float: left;
+    width: 20%;
+}
+
+.sidebar ul {
+    list-style-type: none;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: black;
+}
+
+.content {
+    background-color: cornflowerblue;
+    float: left;
+    width: 80%;
+}
+
+.footer {
+    background-color: aquamarine;
+    text-align: center;
+    clear: both;
+    height: 50px;
+}
